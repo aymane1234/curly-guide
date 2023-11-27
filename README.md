@@ -14,7 +14,7 @@ touch filename
 
 '''
 
-conda create -n envName python=3.7
+
 
 '''
 
@@ -29,5 +29,11 @@ conda create --prefix ./env python=3.7 -y
 
 '''
 conda activate ./env
+
+'''
+
+## make a directory
+'''
+mkdir research_env
 
 '''
