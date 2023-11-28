@@ -41,6 +41,6 @@ mkdir research_env
 ## run jupyter
 
 '''
-jupyter notebook
+jupyter-notebook
 
 '''
