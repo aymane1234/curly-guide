@@ -37,3 +37,10 @@ conda activate ./env
 mkdir research_env
 
 '''
+
+## run jupyter
+
+'''
+jupyter notebook
+
+'''
